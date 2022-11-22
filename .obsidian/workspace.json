@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNote/2022-11-22.md",
+                "file": "2022-11-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c71f4723a37690bd",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNote/2022-11-22.md",
+                "file": "2022-11-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNote/2022-11-22.md",
+                "file": "2022-11-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNote/2022-11-22.md"
+                "file": "2022-11-18.md"
               }
             }
           },
@@ -142,11 +142,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "active": "87e595cd9f961dfc",
   "lastOpenFiles": [
-    "DailyNote/2022-11-21.md",
-    "2022-11-22.md"
+    "2022-11-22.md",
+    "2022-11-01.md",
+    "DailyNote/2022-11-22.md",
+    "2022-11-21.md"
   ]
 }
