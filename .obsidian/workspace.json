@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-12-22.md",
+                "file": "2022-12-26.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "92b69ff683ede886",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c71f4723a37690bd",
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12-22.md",
+                "file": "2022-12-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-12-22.md",
+                "file": "2022-12-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-12-22.md"
+                "file": "2022-12-26.md"
               }
             }
           },
@@ -165,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92b69ff683ede886",
+  "active": "87e595cd9f961dfc",
   "lastOpenFiles": [
     "2022-12-23.md",
     "2022-12-22.md",
