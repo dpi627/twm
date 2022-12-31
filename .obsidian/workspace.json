@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-12-01.md",
+                "file": "2022-12-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12-01.md",
+                "file": "2022-12-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-12-01.md",
+                "file": "2022-12-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-12-01.md"
+                "file": "2022-12-05.md"
               }
             }
           },
@@ -157,15 +157,15 @@
   },
   "active": "87e595cd9f961dfc",
   "lastOpenFiles": [
+    "2022-12-06.md",
+    "2022-12-09.md",
+    "2022-12-08.md",
+    "2022-12-07.md",
+    "2022-12-05.md",
+    "2022-12-02.md",
+    "2022-12-01.md",
     "2022-12-31.md",
     "2022-12-30.md",
-    "2022-12-29.md",
-    "2022-12-28.md",
-    "2022-12-27.md",
-    "2022-12-06.md",
-    "2022-12-26.md",
-    "2022-12-23.md",
-    "2022-12-22.md",
-    "2022-12-21.md"
+    "2022-12-29.md"
   ]
 }
